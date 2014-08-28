@@ -1,6 +1,6 @@
 ---
 name: Stephen Kogo
 country: Kenya
-gh: "kogos"
+gh: "stephen@aims.edu.gh"
 ---
-Data Management.
+Data Management and Analysis
